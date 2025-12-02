@@ -1,6 +1,6 @@
 # Multivariate Time Series to NetLogo Model Pipeline
 
-This Jupyter notebook provides an end-to-end pipeline for transforming normalized multivariate longitudinal data into an executable NetLogo agent-based model. The pipeline uses advanced econometric techniques (VAR and VECM) to decompose complex interdependent relationships between variables and model their dynamics over time. Intent of this is to make ingesting real data easier for Complexity and Systems science classes, as well as enable modeling of Complex Adaptive Systems (CAS) more easily.
+This Jupyter notebook provides an end-to-end pipeline for transforming normalized multivariate longitudinal data into an executable NetLogo agent-based model. The pipeline uses advanced econometric techniques (VAR and VECM) to decompose complex interdependent relationships between variables and model their dynamics over time. Intent of this is to make ingesting real data easier for Complexity and Systems science classes, as well as enable modeling of Complex Adaptive Systems (CAS) more easily. This was an offshoot of a master's project that I did anyway, making it generic to help others skip a few weeks and make complexity simpler seemed easy enough.
 
 ## Overview
 
